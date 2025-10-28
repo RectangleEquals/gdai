@@ -2,3 +2,6 @@
 	path = godot-cpp
 	url = https://github.com/godotengine/godot-cpp.git
 	branch = 4.4
+[submodule "cpp-mcp"]
+	path = cpp-mcp
+	url = https://github.com/hkr04/cpp-mcp.git
